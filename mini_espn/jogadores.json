@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "lebron",
+        "pontos": 20,
+        "assistencias": 10,
+        "rebotes": 10
+    },
+    {
+        "nome": "curry",
+        "pontos": 17,
+        "assistencias": 8,
+        "rebotes": 4
+    },
+    {
+        "nome": "luka",
+        "pontos": 37,
+        "assistencias": 10,
+        "rebotes": 8
+    },
+    {
+        "nome": "durant",
+        "pontos": 25,
+        "assistencias": 8,
+        "rebotes": 4
+    },
+    {
+        "nome": "lebron",
+        "pontos": 20,
+        "assistencias": 10,
+        "rebotes": 10
+    },
+    {
+        "nome": "Butler",
+        "pontos": 22,
+        "assistencias": 5,
+        "rebotes": 4
+    },
+    {
+        "nome": "curry",
+        "pontos": 40,
+        "assistencias": 3,
+        "rebotes": 6
+    },
+    {
+        "nome": "Edwards",
+        "pontos": 27,
+        "assistencias": 8,
+        "rebotes": 9
+    }
+]
